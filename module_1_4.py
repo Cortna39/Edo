@@ -1,0 +1,6 @@
+name = input()
+print(name.upper())
+print(name.lower())
+print(name.strip())
+print(name[0])
+print(name[-1])
